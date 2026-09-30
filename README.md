@@ -1,6 +1,10 @@
 # BNAN430-DataViz
-Portfolio projects from BNAN430. This will include visualizations from Tableau, Excel, PowerBi through DataCamp, and Adobe Express.
+Portfolio projects from BNAN430. This will include visualizations from Tableau, Excel, PowerBI through DataCamp, and Adobe Express.
 
 Initial E-Commerce Profitability Analysis: Develop a set of profitability dashboards and explain your design choices. [a link to your published Tableau workbook](https://public.tableau.com/views/InitialE-CommerceProfitabilityAnalysisBNAN430/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were to do this again, I would create more visuals in the exploratory phase to spark creative ideas and get a better understanding of the data.
 
 Account Profitability and Service Tiers: Build an exploratory dashboard in Tableau and control it with filters, including a filter applied across several worksheets, a Top N filter, and a filter action that connects one view to another. [Link to Tableau workbook](https://public.tableau.com/views/BNAN430AccountProfitability/AccountPortfolioDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This assignment taught me the importance of identifying different angles to assess account profitability. If I were to redo this assignment, I would look closer at discount rates and determine how those have affected net contributions and sales.
+
+[An introduction to Power BI Certificate from Data Camp was awarded on 9/30/2026 as part of my BNAN 430 coursework.
+](https://public.tableau.com/views/PowerBIDataCampBNAN430/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+One thing Power BI does automatically that I did by hand in Excel is connect related tables. In Excel, I used VLOOKUP or XLOOKUP to create new columns, but in Power BI, the tables I loaded were linked through relationships it detected on matching columns. Next time, I would choose Power BI for this task because the relationships update automatically when the data refreshes, which avoids broken formulas and saves me from pasting static values into my tables. For a quick one-time analysis with a small dataset I might still use Excel, but for anything larger or more advanced, Power BI is the better fit.
