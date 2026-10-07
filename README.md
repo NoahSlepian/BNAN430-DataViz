@@ -7,4 +7,7 @@ Account Profitability and Service Tiers: Build an exploratory dashboard in Table
 
 [An introduction to Power BI Certificate from Data Camp was awarded on 9/30/2026 as part of my BNAN 430 coursework.
 ](https://public.tableau.com/views/PowerBIDataCampBNAN430/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[An introduction to DAX Certificate from Data Camp was awarded on 10/7/2026 as part of my BNAN 430 coursework.
+](https://public.tableau.com/app/profile/noah.slepian/viz/PowerBIDataCampBNAN430/PowerBIStory?publish=yes)
 One thing Power BI does automatically that I did by hand in Excel is connect related tables. In Excel, I used VLOOKUP or XLOOKUP to create new columns, but in Power BI, the tables I loaded were linked through relationships it detected on matching columns. Next time, I would choose Power BI for this task because the relationships update automatically when the data refreshes, which avoids broken formulas and saves me from pasting static values into my tables. For a quick one-time analysis with a small dataset I might still use Excel, but for anything larger or more advanced, Power BI is the better fit.
