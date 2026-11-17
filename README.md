@@ -27,3 +27,15 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wild
 Design choice: I used a bar chart of eligibility rate by state with only Texas highlighted, because Jordan's decision is which group gets the pilot, and the case rests on Texas standing well above the next state, 43% versus 27%. I removed the full state-by-state list and kept the top six, so Jordan can see the gap between Texas and its closest competitors at a glance instead of searching a long chart.
 
 Training completed: November 2, 2026
+
+**Nov 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to prepare the Texas pilot mailing for the Wildcat Rewards Card.
+
+[Pitch deck (PDF)](https://github.com/NoahSlepian/BNAN430-DataViz/blob/main/adobe/slepian-product-pitch.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:b9fa5e37-c809-5f17-80c3-8cfc33e9785e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Toughest objection: "Texas has only 68 eligible customers, and that could shrink if Credit Risk raises the FICO cutoff." Slide 5 answers it: the first two weeks of the phase run a FICO cutoff test, so Jordan sees how the Texas group changes before any mailing is approved.
+
+AI use: Claude (Anthropic, Claude Sonnet 5.5), Nov 16, 2026, used for slide planning, slide wording, and testing objections.
+
+Training completed: November 16 2026
